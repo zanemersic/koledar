@@ -1,7 +1,6 @@
 Koledar z dogodki
 
-
-1. Uvod
+1 Uvod
 
 Projekt predstavlja namizno aplikacijo za upravljanje osebnih dogodkov
 preko koledarja. Uporabnik lahko znotraj intuitivnega grafičnega
@@ -10,7 +9,7 @@ ob določenem trenutku prejme obvestilo. Aplikacija je razvita v
 programskem jeziku Python s pomočjo knjižnice Tkinter in modula za
 sistemska obvestila Plyer.
 
-Delovanje aplikacije
+Delovanje aplikacije :
 
 2 Glavno okno (main.py)
 
